@@ -1,4 +1,4 @@
-package Java_OOP;
+package CoreJava.Java_OOP;
 
 public class Car {
     String model;
