@@ -5,7 +5,7 @@ public class User2 {
     final int fixe=0;
     User2(int instanceVar,int fixe){
         this.localvar=instanceVar;
-        fixe.this=fixe;
+        this.fixe=fixe;
         //error : final valur cannot change
 //        java: cannot find symbol
 //        symbol:   class fixe
