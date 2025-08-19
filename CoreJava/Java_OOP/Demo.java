@@ -10,7 +10,7 @@ public class Demo {
         System.out.println(localvar);
     }
     public static void main(String[] args) {
-        Demo dmo=new Demo(1);
+        Demo1 dmo=new Demo1(1);
 //        System.out.println(dmo.localvar);
         dmo.display();
     }
