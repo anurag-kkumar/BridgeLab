@@ -6,7 +6,7 @@ public class Compare {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         String s1=in.nextLine();
-        String s2=s1;
+        String s2=in.nextLine();
         boolean ans=false;
         if(s1.length()!=s2.length())
         {System.out.println(false); return;
