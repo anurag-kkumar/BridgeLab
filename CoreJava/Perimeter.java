@@ -8,6 +8,7 @@ public class Perimeter {
         System.out.println("length =");
         int l=in.nextInt();
         System.out.println("breath =");
+        System.out.println();
         int w=in.nextInt();
         int perimeter=2*(l+w);
         System.out.println(perimeter);
