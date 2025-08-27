@@ -21,6 +21,7 @@ public class DateTime {
         System.out.println("Day of the Week: " + dayOfWeek);
 // Step 4: Calculate the difference between input date and
         System.out.println();
+        System.out.println();
 
         LocalDate currentDate = LocalDate.now();
         long daysBetween = ChronoUnit.DAYS.between(date, currentDate);
