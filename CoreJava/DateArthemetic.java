@@ -1,4 +1,4 @@
-package CoreJava.Extras;
+package CoreJava;
 
 import java.time.LocalDate;
 import java.util.Scanner;
