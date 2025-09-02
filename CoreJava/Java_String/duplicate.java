@@ -1,7 +1,6 @@
 package CoreJava.Java_String;
 
 import java.util.Scanner;
-
 public class duplicate {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
