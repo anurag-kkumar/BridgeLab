@@ -17,5 +17,5 @@ public class Anagram {
         Arrays.sort(arr1);
        return Arrays.equals(arr1,arr);
     }
-    
+
 }
