@@ -1,0 +1,11 @@
+ques - Procedural vs Object-oriented Programming Language
+answer:
+Procedural:
+		procedudural programming is programming depend on sequence of instruction and function to perform task.
+		it follows  step-by-step approach where program  divided into functions.
+		it depend on function to perform operation.
+		Due to that difficult to maintain and extend for complex system
+OOP:
+		it is a programming  based on the concept of "objects", which are instances of classes.
+		it organize code into class and objects.
+		it is more scalable that Procedural.
